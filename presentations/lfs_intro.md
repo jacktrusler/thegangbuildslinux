@@ -3,9 +3,10 @@ marp: true
 theme: gaia
 ---
 
-# Gnu Era Linux
+# New Era Linux
 ### Let's build Linux From Scratch Over Dinner(s)
 A presentation by Jack and Hayden
+
 
 ---
 
